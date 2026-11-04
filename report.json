@@ -1,0 +1,1080 @@
+{
+  "config": "refi",
+  "slug": "refi-search",
+  "videos": 353,
+  "transcribed": 140,
+  "skipped": [
+    {
+      "id": "3aAZSYHjBS4",
+      "title": "Are you READY for ReFi Week? | LFGROW!",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "02ytuaoJovA",
+      "title": "Internet of Impact: IXO & ReFi Cape Town with Shaun Conway & Shawn Alimohammadi │Season 3 Episode 6🎧",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "ArOijiSE7P4",
+      "title": "The Next Wave of ReFi Is Here! │ Season 3 Episode 25 🎧",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "pyGD1fZfe8U",
+      "title": "Unlocking The Value Of Carbon With Robin Klemens │ Season 3 Episode 17 🎧",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "TEDPXdkHo4I",
+      "title": "There is a lot we can learn from the SIGNALS of our BODIES.  #podcast #climatechange  #motivation",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Zkjr1Xb7ngM",
+      "title": "Community, Capital and Regeneration with Philip Stehlik and Lena Bumke │Season 3 Episode 9 🎧",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "53qWdM2HQHY",
+      "title": "Diversity, Equity, Justice and Inclusion with Gilberto Morishaw │Season 3 Episode 5 🎧",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "mQKHsc3eaqw",
+      "title": "Regeneration, AI & Consciousness with Matt Cyrankiewicz │Season 3 Episode 3 🎧",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "b-nbXl7u-Cs",
+      "title": "Environmental Asset Markets and Community Impact with Sarah Baxendell │Season 3 Episode 2 🎧",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "x1t1NwGCoNI",
+      "title": "Celo Public Goods Ecosystem with Luuk Weber and Monty Merlin │ Season 3 Episode 23 🎧",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "byXrG0eS3wg",
+      "title": "Building Regenerative Villages with Samuel Delesque │ Season 3 Episode 8 🎧",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "C7dYUoL2lZY",
+      "title": "Regeneration Inside & Out with Moniek van Erven │Season 3 Episode 14 🎧",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "41w4ivKx0Wg",
+      "title": "Ultragreen Money with Tim Moreton │Season 3 Episode 4 🎧",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "j3q8EakRL7Q",
+      "title": "Liquid Climate Finance with Stenver Jerkku & Rez Tammsaar of Solid World │Season 3 Episode 7",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "lTq1jI-Ogrk",
+      "title": "Diving Deep 🌊 Ale's Transformative Journey of Connection and Discovery  #podcast #climate #web3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "7-oTcIqpv8U",
+      "title": "Rising From The Depths - Andy Kirchner’s Story Of Regeneration In Curaçao │ Season 3 Episode 10 🎧",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Uh33dl70o7U",
+      "title": "EVERYONE needs an equal stake in the FIGHT against climate change. 🙌  #podcast #climatechange #web3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "AQ7W6guOF4E",
+      "title": "Introducing Planta-R with Rica Amaral │ Season 3 Episode 15 🎧",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "e2NegV4ZpoI",
+      "title": "This is the FIRST STEP to regenerate our relationship with nature.  #podcast #regeneration #web3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Hks0r5vkyDE",
+      "title": "Act or Lose: Saving Our Climate Targets and Future. #podcast #climatechange #climateaction",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "r83OKXIjBAc",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "iD0jWTjcvNU",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "hK2RLWmx-rA",
+      "title": "Gitcoin coordiNATION game is LIVE! 🎉 | Green Pill, Regens Unite, Metacrisis.xyz & ReFi DAO! 🌏🌍🌎",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Tg3m0vV21dg",
+      "title": "Regeneration & The Global South | Founders with Pranav from LOA Labs",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "CoboTd6OI-E",
+      "title": "Why DAOs will change the world? with Lauren Luz",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "X5eVP7ssCYw",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "6CSVaNK81zo",
+      "title": "Decolonize Your MIND... | ReFi Lisboa Feb 17",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "cXNnLQmwyZk",
+      "title": "EVERYBODY Gotta Win! 🌎 ReFi Lisboa Feb 17",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Qq0Xf4CUa30",
+      "title": "ReFi Lisboa | KICK-OFF! 🎉 — Feb 17 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "cw22rBW4gFE",
+      "title": "Financing Sustainable Infrastructure with Ben from Silta Finance",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "or-lXoWEJHg",
+      "title": "Pragmatic Carbon Finance with Hayley & Ryan from Thallo",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "USIsnw19cuE",
+      "title": "Keys to Regeneration with Rene from Celo | ReFi Podcast Teaser & ReFi DAO Update 🎙️ 📣",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "VH0_HV93_nM",
+      "title": "Digital Gaia — A network of AI co-pilots for a regenerative economy TL;DR",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "mHtsMVX4sgo",
+      "title": "To network state or not to network state with Monty Merlin",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "xCR1rTiUL2U",
+      "title": "neoslife with Vincent Daranyi | BONUS Episode",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "FERtHOVPtfE",
+      "title": "neoslife with Vincent Daranyi | BONUS Episode",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "vrYtvutT7Q4",
+      "title": "Regenerate Earth: A Global Startup Movement | #ReFi Commons Prize",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Cag-dJHI9VE",
+      "title": "Announcing the ReFi DAO Local Node Incubator with Commons Stack!",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "6iip2aa7bw8",
+      "title": "An Invitation to ReFi DAO Local Node Prize! 🏆 | Birth of a new nation",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "i0vmIj0JKNw",
+      "title": "Building a Next-Generation DAO to Regenerate the Earth 🌎 | ReFi DAO Forum",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "npgk_Ll7qWE",
+      "title": "ReFi DAO Office Hours with Commons Stack | Nov 14 2022",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "GEwTMk7dT6s",
+      "title": "ReFi DAO Office Hours on Token Engineering with Longtail Financial | Nov 21 2022",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "EUMBlFAwYDM",
+      "title": "ReFi DAO | Office Hours #3 - November 28, 2022",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "hk7_CasZYQY",
+      "title": "ReFi DAO | Office Hours #4 - December 5th, 2022",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "7SYHywMW_Qk",
+      "title": "ReFi DAO | Office Hours | GMT20221212",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "IVglcJj-e6g",
+      "title": "ReFi DAO | Office Hours  | GMT20221219",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "TsJMUHZOBcU",
+      "title": "ReFi Founder's Circle Feature — Magenta of Bloom Network & MRV101 Circle",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "eZPIC6oTy98",
+      "title": "ReFi Founder's Circle Feature — Helena Merk of Spirals Protocol & Celo Circle",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "XY_jnGBakxI",
+      "title": "Ana Maria of Koko DAO | #ReFiSummer Founder's Circle Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ZxSwKAh1348",
+      "title": "Kula on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Sm35_UU9PM8",
+      "title": "Kokonut Network on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "tcrs0Rmcn5E",
+      "title": "Turkish Farmers on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "F-zstfvEbEo",
+      "title": "Spirals Protocol on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "dLNN7PtSPJc",
+      "title": "REFi Zone on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "pGMRjrotQCI",
+      "title": "Ogallala-life on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "c9M16x8wD08",
+      "title": "EcoLabs on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "0_XTGNwI5To",
+      "title": "ReFi Bootcamp on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "0WmpgUyeNmQ",
+      "title": "GR15 - Astral, Holly Grimm",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "deGNi7hPoXM",
+      "title": "GR15   de plan 20220830",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "waEH1MT9IQM",
+      "title": "Bloom Network on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "K72DdDzFYVA",
+      "title": "AgroForest DAO on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "YRb6spoaOW4",
+      "title": "Angry Teenager on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "r1YxKC3rw0M",
+      "title": "New Atlantis DAO on Gitcoin GR15 | ReFi DAO Founder Feature (60sec)",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "rsikxzZKs_8",
+      "title": "MRV 101 on Gitcoin GR15 | Bhavesh Bati (60sec)",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Hr7tYjQx11w",
+      "title": "Kennedy from Shamba on Gitcoin GR15 🪄 ReFi Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "sUQZF4MLAas",
+      "title": "Koco DAO on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "tnZ1od_yfL8",
+      "title": "Basin Global on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "XCQ_aI0BolQ",
+      "title": "Spirals Protocol on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ir2EEdoYKZQ",
+      "title": "ReCommon on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "PbXKRuYI_GY",
+      "title": "Katalyst on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "t_q81Q6-jc8",
+      "title": "ReFi Water Circle on Gitcoin GR15 | ReFi DAO Founder Feature",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ejVJklnA7VY",
+      "title": "#ReFiSUMMER Recap | ReFi DAO GR15 Update",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "OJ88xxrVEAU",
+      "title": "🌍🌱 Navigating the Regenerative Economy 🚀",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "bK5xKr1PihI",
+      "title": "🌱 Explore the world of Refi DAO! 🚀",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "PS6vAYZc_fg",
+      "title": "🌍 Let's dive into the promise of Refi DAO! 🚀",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "58cEL3c1gMM",
+      "title": "Terex on Natural Assets",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "TNMQwrUr0ac",
+      "title": "Towards 2050: A Vision for Regeneration with the help of Technology ⚙️🌐",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "QBb_PlRISVs",
+      "title": "Shifting Paradigms: From Sustainability to Regeneration 🔄🌱",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "N3TMzOZbh-I",
+      "title": "Bioregions with Monty",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "f16cqzP8YTQ",
+      "title": "Can we tackle the climate crisis without rethinking our relationship with nature? #podcast",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "YxPRYy13iFY",
+      "title": "Debt-Based Currency and Environmental Crisis = A Call for Financial Innovation.  #podcast #debt",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "FiVwjAnZhRo",
+      "title": "Half of global GDP depends on biodiversity, yet we're facing a sixth mass extinction.  #biodiversity",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "WY-laBRhizM",
+      "title": "Conserving NATURE with corporate CAPITAL | Ale Mazzi of Sovereign Nature Institute",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "9A5buyK08eg",
+      "title": "Why CARBON?  We NEED a vehicle to FUND NATURE! | #carboncredits  #climate #carbonmarkets",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "XIUzlj9Xq3c",
+      "title": "They don't CARE what TECH you use | Make funding nature SIMPLE!",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "F5jROYWCJtI",
+      "title": "There's HUGE momentum HERE in ReFi | Climate Positive Assets #ReFi #Climate #crypto #carbon",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "F25RKGPogr0",
+      "title": "Kumo's AHA! moment 🤩 Where does all this carbon come from?",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "H4WjyRYYDno",
+      "title": "We NEED tokenized CARBON credits! 🪙 #ReFi #tokenized #carbon",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "xbdvPeCUHnU",
+      "title": "Kumo makes ReFi History LIVE from COP-28",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ppLcDRMrYTU",
+      "title": "🌟💪 Trailblazing women of color 🚀🌄",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "XXcKCNt-mmE",
+      "title": "✨ Embodying change as a minority ✊🌍",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "69zHSc3sDoQ",
+      "title": "Earth – the very foundation we all depend upon.  #podcast #nature #economics",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "XfCAloVgUSY",
+      "title": "CARBON MARKETS have been doing it all WRONG!❌ #podcast #carboncredits #carbon #web3podcast #web3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "HYLDaLihsXY",
+      "title": "EBF: a digital HANDSHAKE for the PLANET. 🤝 #podcast #regeneration #climatechange #web3podcast",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "VH4jHAMLJak",
+      "title": "What are you GRATEFUL for TODAY? #podcast #web3podcast #grateful #mindfulness #motivation",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "5XwKsRYQhMw",
+      "title": "HOW do our BELIEFS shape our DESTINY? #podcast #regeneration #wellness #wellbeing  #web3podcast",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "PrpWgenagBg",
+      "title": "Regeneration IS CRUCIAL as much as our inner WELL-BEING. #podcast #web3podcast #blockchain #web3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "lj8ZpuyBy7c",
+      "title": "We are in a CLIMATE EMERGENCY and we need to go FAST and SLOW❗️ #podcast #climatechange #web3 #refi",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "aMm3MnmXopw",
+      "title": "IT'S TIME TO revolutionize finance for Earth's health! 🌏  #podcast #blockchaintechnology #web3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Eo2Ws3zNdFo",
+      "title": "We are ONE with nature. We ARE nature. #podcast #web3 #nature #connection #sustainableblockchain",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "PPNEtHjzbXw",
+      "title": "Living in BEAUTIFUL places and making POSITIVE IMPACT is possible! #podcast #web3 #ecovillage",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "tlX9gTdzewY",
+      "title": "THIS is how CARBON CREDITS can have REAL impact. #podcast #web3 #blockchain #carboncredits #carbon",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "D8S2q1rfZSI",
+      "title": "The REAL Origin of ReFi — Myanmar 1764 ✨ #podcast #blockchaintechnology #web3 #regeneration #refi",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "mdgDI1K3iQA",
+      "title": "What is Quadratic Funding?⁉️ 🤨",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "NBp7cMfDTaQ",
+      "title": "Humans Are Better Off In Nature | Indigenous Wisdom #regenerative #climateaction #web3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Y7b5uU-kNUM",
+      "title": "A Future with Regenerative Economics #podcast  #regenerative #climateaction",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "s5Eky238GLs",
+      "title": "A New Global Order for Regenerating the Earth",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "zwdXxA1T96Q",
+      "title": "A network of coordiNATIONs — an evolution of Balaji's Network State concept",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "SguHnbLnlGA",
+      "title": "Local Regeneration Enabled by Web3 #regeneration #refi #crypto #climateaction",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "vT1dLkGA1xM",
+      "title": "Without ACTION, everything else is MEANINGLESS #refi #carboncredits #regeneration #climateaction",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "BDgowWkpO8s",
+      "title": "We Have regenerated land throughout the years | Lisbon, 2050 — #regeneration #2050",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "HbECczbqj7M",
+      "title": "The Urgency of Now | AI Risk, Climate, Biodiversity, Economic Collapse",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "WmO8kKzB2j8",
+      "title": "We are the BRAIN of the Biosphere 🧠🌱🌍",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Cg9M3OevQTI",
+      "title": "Gitcoin match funding coordiNATION | Let's get LOCAL #QF pools!",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "uw041UyfRi4",
+      "title": "Nation States are FAILING❗️A new global coordiNATION structure is emerging 🌐📈",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "x94Sr4Uw-Aw",
+      "title": "Look at what our cities have become! | Lisbon, 2050 — #regeneration #2050",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "e-4XC8NQVys",
+      "title": "Building a digital model of the ENTIRE world's agriculture 🤯🌱🌾",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "H0ZAMDgf_6E",
+      "title": "OVERCOMING Investor APATHY towards Climate Change | ReFi Global South",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "HEqLp4_KoLg",
+      "title": "Building Resilience for Coastal Communities | A Holistic Approach to Impact and Economic Growth",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "xCcn3xOEunY",
+      "title": "The Importance of Taking Action and Staying Motivated | ReFi Global South",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "3lBcq3hwEpY",
+      "title": "🔨Building a Resilient ReFi Ecosystem | Rene From Celo 🚀💪",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "t_mJdu9TDBs",
+      "title": "🚀ReFi: The FUTURE of Money, Trust, Nature & Humanity",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "xCXJQisyygA",
+      "title": "Power Dynamics and Collaboration | ReFi Global South",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "SRFmysAtPoM",
+      "title": "How Building a COMMUNITY Can Accelerate Industry Growth in Africa",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "qRqqtYiHgYY",
+      "title": "Building a New Fabric of Innovation | Nelly from BFA Global",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "OiI26Icme_8",
+      "title": "Satoshi from Verod-Kepple Africa Ventures Speaks on ReFi Global South",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "uaKid7ALvCM",
+      "title": "Madhur from Varaha Speaks on ReFi Global South",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "tHf3wwdEPFs",
+      "title": "Hayley from Thallo Speaks on ReFi Global South",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "_otEaxe3xvU",
+      "title": "Kennedy from Shamba Network Speaks on ReFi Global South",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "PUET19IAYLo",
+      "title": "Jocelyn from Luno Expeditions speaks on ReFi Global South",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "7wcDzlIhSWE",
+      "title": "Alison from Climate Collective at ReFi Grants Roundtable",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "aneCHOw3cwM",
+      "title": "Masha from Celo speaks at Roundtable",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "klZIngQFmy0",
+      "title": "Stefan from Polygon speaks at Roundtable",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "xZ-u4x39zOw",
+      "title": "Diversity, innovation & regeneration",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "usyYLX-nW5E",
+      "title": "We need to CHANGE our thinking....",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "gntS71xm91o",
+      "title": "So I saw this HUGE sum on Aave....",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "he191bMqF28",
+      "title": "This is a MASSIVE opportunity…🤯",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "aHehj27Ujdg",
+      "title": "Money Has Always Been a Technology...",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "_4WPEe2onGs",
+      "title": "The Story of Technology...",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "nrg4unJnmI0",
+      "title": "Build the Future to Reverse the Past",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "8O9yJ_SeYWs",
+      "title": "Why Rez works in ReFi...",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "AuYOHMg3B2E",
+      "title": "Mutual Credit Currencies & Circular Economies",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "QlarOJ47r60",
+      "title": "Ryan on ReFi Podcast",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "qmNrE2X6gH4",
+      "title": "Ocean Metagenomics with New Atlantis DAO",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "wRvWyjlFoT4",
+      "title": "Brianna on agency & climate change...",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "OMevTpdt4YA",
+      "title": "The Near Future of Carbon Markets",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "tFM5Soo5vs8",
+      "title": "impactMarket on ReFi Podcast #refi #ubi #impact",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "J-h2gypCbT4",
+      "title": "David Rodriguez on his calling to #climateaction in #refi | Draft Ventures",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "GnTDgK5Y3TQ",
+      "title": "Luuk from Kolektivo on regeneration 🎯",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "YRdAEyj71Uw",
+      "title": "What is Return?",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Z6Kq87BNVq4",
+      "title": "What is Spirals Protocol on Celo?",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "SFTrxPmDIkk",
+      "title": "Spirals Protocol  🪄 ReFi Founder highlight 😍",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "tW9Aftd9WI8",
+      "title": "WTF is Angry Teenagers?",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "likWJbHymfw",
+      "title": "Kevin from Gitcoin on ReFi Podcast | #refi #web3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "UoDxyi7uvaE",
+      "title": "When a corporate asks for 1m tons of CDR... | #netzero #carbon #CDR #climateaction",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "YPbFI5UMzFY",
+      "title": "What is Redemption DAO?",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "UgtaiFYqmQo",
+      "title": "The Beautiful World Beyond Fossil Fuels",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "tuweKmq2wbU",
+      "title": "jE on The Power of Childlike Curiosity | ReFi in Action, Celo Connect 2022",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "YsS7yomabeU",
+      "title": "The Future of dMRV: Benoît Clément from Verra",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "rbackpJlCnQ",
+      "title": "ReFi Podcast Season Two Teaser",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "sPoqo-iLudM",
+      "title": "johnx25bd on Spatial Demurrage at Astral Protocol",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "CQe_SKU3Jno",
+      "title": "\"Don't Buy Bitcoin, Buy Land in the Amazon\"- Luis from Moss, Season 2 Episode 2 ReFi Podcast",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "xvxM2sJVN7U",
+      "title": "\"Its All Connected\"- Luis from Moss Short",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "WPOl4_F40Ao",
+      "title": "Money is a story...",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "TP_UvREROqE",
+      "title": "This Week in ReFi - 8/12/2022",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "EjGXuS77778",
+      "title": "A Conversation with Sep Kamvar and Charles Eisenstein | Kuneco April 2021",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "QA3YZVDUN5s",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "V1LsQpesIPI",
+      "title": "Welcome to ReFi Podcast Season Two | This is #ReFi, #ClimateAction in #web3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "-2zOm5WGKAs",
+      "title": "ReFi Podcast S2 E2: Preserving the Amazon with Luis from Moss | #ReFi #ClimateAction",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "UzeSauJJpds",
+      "title": "ReFi Podcast S2 E3: Carbon & Innovation with Benoit from Verra | #refi  #climateaction",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "AQcFwFUw_7E",
+      "title": "ReFi Podcast S2 E4: Impact Hyperstructures with Kevin from Gitcoin | #refi #web3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "BjTH5KxJBqs",
+      "title": "ReFi Podcast S2 E5: Angry Teenagers with Ben and Eline from Ecomint | #reforestation #refi #nft",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "2xo43tkr1TY",
+      "title": "ReFi Podcast S2 E6: What is ReFi?",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "pUrDfr69X4w",
+      "title": "ReFi Podcast S2 E7: Climate Impact Staking with Helena and Doug from Spirals Protocol",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "6kuxrGLdzf0",
+      "title": "ReFi Podcast S2 E8: Automating Climate Impact with Kieran and Andrew from Return Protocol",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "N3wOu2Lt9XU",
+      "title": "ReFi Podcast S2E9: Kolektivo Framework with Luuk and Pat",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "lEvjDlBGmD0",
+      "title": "ReFi Podcast S2E10: Human Empowerment with Marko from impactMarket",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "OqDIU0czAEQ",
+      "title": "ReFi Podcast S2E11: Investing in Climate and Impact Fintech with David Rodriguez from Draft Ventures",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "XfU8pXK4E-c",
+      "title": "ReFi Podcast S2E12: Nature, Culture & The Sacred with Nina Simons",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "g1W2YFeckJQ",
+      "title": "ReFi Podcast S2E13: Scaling Carbon Markets with Dana and Phil from Flowcarbon",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ZJyFczBHAQA",
+      "title": "ReFi Podcast S2E14: Energy Transition with Brianna from Reneum",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "U24KODxubVI",
+      "title": "ReFi Podcast S2E15: Ocean Metagenomics with Courtney and Gordon from New Atlantis DAO",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "uzq5HERxVMM",
+      "title": "ReFi Podcast S2E16: Speed & Scale with Ryan from Kleiner Perkins",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ve2skrXIoPU",
+      "title": "ReFi Podcast S2E17: Circular Economies with Ashley from Resource Finance",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "QmIChfWM93Y",
+      "title": "ReFi Podcast S2E18: State of the ReFi Nation with Rez from Solid World DAO",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "TDqIn8Iu7LE",
+      "title": "ReFi Podcast S2E19: ERC-Cool with Leanne from Tres Cool Labs",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "A7MiGu_q3-s",
+      "title": "S2E20: RECs Renaissance with Arkreen, Jasmine Energy & Reneum Institute",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "QrwID5EQ60o",
+      "title": "ReFi Podcast S2E21: Bear means BUIDL with Jahed from Cerulean Ventures",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "8QSa3Si0pCs",
+      "title": "ReFi Podcast S2E22: Sep Kamvar from Celo & Mosaic",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ozUmn--j0B4",
+      "title": "ReFi Podcast S2E23: Financing Renewables with William from Helios",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "GBwprDHvj4o",
+      "title": "ReFi Podcast S2E24: A Year in ReFi: 2022,  with jE, Simar and Frens",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "4zapx1yMlts",
+      "title": "ReFi DAO Update  | July 11",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "0MAj94JUlBM",
+      "title": "ReFi DAO Update | ReFi Summer Founder's Circle Formation, ETH CC, SBS & Moss on ReFi Podcast",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "086eKHtvI5k",
+      "title": "Redemption DAO: The Bigger Picture",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "cqBtvKz80r0",
+      "title": "Refi DAO Forum | REGISTER NOW",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "vJpT57D0mWk",
+      "title": "ReFi DAO Q2 Community Call",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "dJeOQIHZKio",
+      "title": "Welcome to ReFi — Meet Marcelo Silva, a Brazilian PhD Community Manager at ReFi Spring #ReFi",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "MmrTgKLTwrk",
+      "title": "ReFi Rate-athon | June 13 - 27th — Over $25k in prizes for rating #ReFi projects in #web3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "q6W0GTr5DSw",
+      "title": "ReFi Launchpad: ECORISE       #ReFi #Web3 #DAO #ClimateAction",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "_dK0IYWtdr8",
+      "title": "ReFi Launchpad: ECORISE",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "-boLDxqPL4c",
+      "title": "Trailer: ReFi Podcast Season One",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "yISj_eJ_5vQ",
+      "title": "Welcome to ReFi Podcast — Episode 1",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "lC3FXMmRWJQ",
+      "title": "Episode 11: Investing in ReFi with Kristin McDonald from Eniac Ventures | #ReFi #climateaction #web3",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "CJ0BWELuFzs",
+      "title": "Episode 10: Bloom Network with Magenta Ceiba",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "CG7OwNmcq4w",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "8yQjj81ncTI",
+      "title": "Episode 9: Regen Network with Gregory Landua",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "I2F-1gcmcTU",
+      "title": "Episode 8: MakerDAO with Rune Christensen",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "1OCM2Drodj4",
+      "title": "Episode 7: Flori Ventures with Tomer Bariach",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "HAwMfUATQnA",
+      "title": "Episode 6: On Growth with Rebecca Mqamelo",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "0Sy3D5XE2Iw",
+      "title": "Episode 5: Celo and cLabs with Markus Franke",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "P5xHP2LSImw",
+      "title": "Episode 4: On Community with Vivek and Andy from Kernel",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "X39LO7wlxNU",
+      "title": "Episode 3: Scaling Forestry with Open Forest Protocol",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "U1TlY2VSF-4",
+      "title": "Episode 2: On Inclusion with Sumedha Deshmukh",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    }
+  ],
+  "cues": 118467,
+  "captionSource": {
+    "manual": 0,
+    "auto": 140
+  },
+  "windows": 5550,
+  "speakers": 25
+}
